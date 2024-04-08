@@ -1,5 +1,6 @@
 # **ML-Diabetes-Project in Python**
 ## **Overview**
+This project is a collaboration between [@DrorArbiv] and [Eynat Sela].
 This project aims to develop a machine learning model for predicting diabetes based on health indicators. The dataset used for this project is sourced from Kaggle and contains various health-related features along with information on whether an individual has diabetes or not.
 
 ## **Dataset**
