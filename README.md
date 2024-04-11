@@ -2,7 +2,7 @@
 ## **Overview**
 This project is a collaboration between [@DrorArbiv](https://github.com/DrorArbiv) and [@Eynat_Sela](https://github.com/Eynat_Sela).
 
-This project aims to develop a machine learning model for predicting diabetes based on health indicators. The dataset used for this project is sourced from Kaggle and contains various health-related features along with information on whether an individual has diabetes or not.
+This project aims to develop machine learning models for predicting diabetes based on health indicators. The dataset used for this project is sourced from Kaggle and contains various health-related features along with information on whether an individual has diabetes or not.
 
 ## **Dataset**
 The dataset used in this project is the Diabetes Health Indicators Dataset obtained from Kaggle. It includes a variety of health indicators such as age, body mass index (BMI), blood pressure, cholesterol levels, and more.
